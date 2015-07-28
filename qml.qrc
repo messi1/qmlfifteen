@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="Tile.qml">qml/Tile.qml</file>
+        <file alias="FinalItem.qml">qml/FinalItem.qml</file>
+        <file alias="TitleBar.qml">qml/TitleBar.qml</file>
+        <file alias="RankingList.qml">qml/RankingList.qml</file>
+        <file>qml/EnterNamePage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="star.png">qml/images/star.png</file>
+    </qresource>
+</RCC>
